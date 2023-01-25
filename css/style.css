@@ -1,0 +1,64 @@
+/* body {
+  min-height: 3000px;
+} */
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #6693e1;
+}
+
+#projects {
+  background-color: #6693e1;
+}
+
+.underline {
+  text-decoration: none;
+  color: black;
+}
+.underline:hover {
+  text-decoration: underline;
+  color: #6693e1;
+}
+
+.logo-wa {
+  text-decoration: none;
+  color: black;
+}
+
+.logo-wa:hover {
+  color: rgb(15, 194, 15);
+}
+
+/* .logo-wa:visited {
+  color: rgb(15, 194, 15);
+} */
+
+.logo-ig {
+  text-decoration: none;
+  color: black;
+}
+
+.logo-ig:hover {
+  color: #8a3ab9;
+}
+
+/* .logo-ig:visited {
+  color: #8a3ab9;
+} */
+
+.logo-email {
+  text-decoration: none;
+  color: black;
+}
+
+.logo-email:hover {
+  color: #3b60c4;
+}
+
+/* .logo-email:visited {
+  color: #3b60c4;
+} */
+
+section {
+  padding-top: 6rem;
+}
